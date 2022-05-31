@@ -1,0 +1,49 @@
+.Table .row {
+  text-align: center;
+  margin: 0;
+}
+.Table .forecast {
+  background: #f582a7;
+}
+.Table .table-details {
+  padding: 10px;
+  line-height: 45px;
+}
+.Table .day {
+  padding: 8px 0;
+  font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
+  color: #fff;
+  font-size: 16px;
+}
+.Table .today {
+  background: rgb(239, 239, 106);
+  padding: 8px 0;
+  color: #711a75;
+  font-weight: bold;
+  box-shadow: 5px 5px 5px #00000080;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+}
+.Table .button-day {
+  background: #f582a7;
+  border: none;
+  color: #fff;
+  font-weight: bold;
+  font-size: 18px;
+}
+.Table .button-today {
+  background: rgb(239, 239, 106);
+  border: none;
+  font-family: "Pacifico", cursive;
+  font-size: 23px;
+  color: #711a75;
+  padding: 5px 5px;
+}
+.Table .main {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  line-height: 40px;
+}
+.Table .emoji {
+  width: 50px;
+}

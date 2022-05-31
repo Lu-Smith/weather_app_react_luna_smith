@@ -1,0 +1,24 @@
+.Image h2 {
+  text-align: center;
+  position: relative;
+  bottom: 100px;
+  color: #fff;
+  right: 60px;
+  text-shadow: 5px 5px 20px rgba(14, 14, 14);
+}
+.Image .row {
+  text-align: center;
+  margin: 0;
+}
+.Image .day-image {
+  display: block;
+  margin: 0 auto;
+  width: 330px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.Image .today-weather {
+  color: white;
+  font-size: 30px;
+  position: relative;
+  bottom: 180px;
+}

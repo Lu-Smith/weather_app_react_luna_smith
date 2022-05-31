@@ -1,0 +1,17 @@
+.SearchForm {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  line-height: 30px;
+}
+.SearchForm .inside-form,
+.my-city {
+  border: 2px solid #7a5779;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+  padding: 5px 13px;
+}
+.SearchForm .my-city {
+  background: rgb(198, 40, 116);
+  color: #fff;
+  border-radius: 10px;
+}

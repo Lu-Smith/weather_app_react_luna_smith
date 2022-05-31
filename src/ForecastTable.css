@@ -1,0 +1,22 @@
+.ForecastTable {
+  position: relative;
+  bottom: 85px;
+  padding-top: 5px;
+}
+.ForecastTable .row {
+  text-align: center;
+  margin: 0;
+}
+.ForecastTable .footnote {
+  margin-top: 30px;
+}
+.ForecastTable .date {
+  text-align: center;
+  color: #711a75;
+  text-shadow: 2px 2px 5px rgba(12, 12, 12, 0.5);
+  font-size: 20px;
+  line-height: 20px;
+}
+.ForecastTable .highlightDay {
+  color: white;
+}
