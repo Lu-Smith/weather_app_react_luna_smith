@@ -19,7 +19,7 @@ export default function Footer() {
         </a>
         and is
         <a
-          href="https://github.com/Lu-Smith/Weather-app-by-Luna-Smith"
+          href="https://github.com/Lu-Smith/weather_app_react_luna_smith"
           target="_blank"
           alt="my GitHub"
           rel="noopener noreferrer"
